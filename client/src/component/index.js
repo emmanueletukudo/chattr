@@ -1,8 +1,8 @@
 import Join from "./Join";
-import Chart from "./Chart";
+import Chat from "./Chat";
 
 
 export {
     Join,
-    Chart,
+    Chat,
 }
