@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2f8feb1.chunk.css",
+    "main.js": "/static/js/main.abe4b096.chunk.js",
+    "main.js.map": "/static/js/main.abe4b096.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0679f76e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0679f76e.js.map",
+    "static/js/2.92da9483.chunk.js": "/static/js/2.92da9483.chunk.js",
+    "static/js/2.92da9483.chunk.js.map": "/static/js/2.92da9483.chunk.js.map",
+    "static/js/3.e57eda0e.chunk.js": "/static/js/3.e57eda0e.chunk.js",
+    "static/js/3.e57eda0e.chunk.js.map": "/static/js/3.e57eda0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d2f8feb1.chunk.css.map": "/static/css/main.d2f8feb1.chunk.css.map",
+    "static/js/2.92da9483.chunk.js.LICENSE.txt": "/static/js/2.92da9483.chunk.js.LICENSE.txt",
+    "static/media/uma ukpai.c81a4a70.jpg": "/static/media/uma ukpai.c81a4a70.jpg",
+    "static/media/uma-ukpai-poly.281c1814.png": "/static/media/uma-ukpai-poly.281c1814.png",
+    "static/media/App.css": "/static/media/umaukpai-2.ffa13483.jpg",
+    "static/media/umaukpai-elect2.da469493.JPG": "/static/media/umaukpai-elect2.da469493.JPG",
+    "static/media/umaukpai-entrance.44baeb39.JPG": "/static/media/umaukpai-entrance.44baeb39.JPG",
+    "static/media/umaukpai-library.6f993775.JPG": "/static/media/umaukpai-library.6f993775.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0679f76e.js",
+    "static/js/2.92da9483.chunk.js",
+    "static/css/main.d2f8feb1.chunk.css",
+    "static/js/main.abe4b096.chunk.js"
+  ]
+}
