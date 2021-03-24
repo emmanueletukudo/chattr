@@ -6,8 +6,9 @@
  */
 const { Router } = require("express");
 const router = Router();
-const UserCtrl = require("../controllers/user.controller");
 
-router.get("/", UserCtrl.getUsers);
+router.get("/", (req, res) => {
+    res.send("Server is up and running");
+});
 
 module.exports = router;
