@@ -9,6 +9,7 @@ const Chat = ({location})=>{
     const [room, setRoom] = useState("");
 
     const API = 'localhost:5000';
+    
     useEffect(() => {
         const {name, room} = queryString.parse(location.search);
 
@@ -17,8 +18,8 @@ const Chat = ({location})=>{
         setName(name);
         setRoom(room);
 
-        console.log(socket);
-    })
+        socket.emit("join", {name, room});
+    }, [API, location.search])
    
     return(
         <div>
